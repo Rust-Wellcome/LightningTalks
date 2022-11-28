@@ -1,1 +1,9 @@
 # LightningTalks
+
+One of the Rust@Wellcome group activities are show-and-tell sessions where a speaker takes 3 to 5 minutes to speak on a personal project, or walk us through their Rust solution to a problem. 
+
+The aim for these talks is to have the focus be on the developer story. 
+
+The rough format would be (1) problem encountered (2) steps taking to solve (3) Rust lessons learned.
+
+These talks can be in or out-of genomics domain and you can use them to solicit collaboration or help.
