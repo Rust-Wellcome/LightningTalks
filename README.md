@@ -14,8 +14,8 @@ These talks can be in or out-of genomics domain and you can use them to solicit 
 
 | Speaker     | Talk                              |
 | ----------- | --------------------------------- |
-| Jeff Knapps | Defining your own types & bio-seq |
-| Jeff Knapps | Displaying data with WASM         |
+| Jeff Knaggs | Defining your own types & bio-seq |
+| Jeff Knaggs | Displaying data with WASM         |
 
 ### 13/12/22 ([slides](./RUG-2nd-meeting.pdf))
 
