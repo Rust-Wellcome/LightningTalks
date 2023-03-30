@@ -23,3 +23,9 @@ These talks can be in or out-of genomics domain and you can use them to solicit 
 | ------------ | ------------------------------------- |
 | Kat Figueroa | Perfect First Project                 |
 | Will Burden  | Solving Advent of Code with Iterators |
+
+### 30/03/23 ([slides](./RUG_30MAR2023.pdf))
+| Speaker      | Talk                                  |
+| ------------ | ------------------------------------- |
+| Kat Figueroa | Creating Parsers with Rust nom crate  |
+| Will Burden  | Hands-on session on using nom         |
