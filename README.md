@@ -24,6 +24,11 @@ These talks can be in or out-of genomics domain and you can use them to solicit 
 | Kat Figueroa | Perfect First Project                 |
 | Will Burden  | Solving Advent of Code with Iterators |
 
+### 16/02/23 ([slides](./RUG_16FEB2023.pdf))
+| Speaker      | Talk                                  |
+| ------------ | ------------------------------------- |
+| Group        | Group Project                         |
+
 ### 16/03/23 ([slides](./RUG_16MAR2023.pptx))
 | Speaker      | Talk                                  |
 | ------------ | ------------------------------------- |
